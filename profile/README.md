@@ -1,4 +1,4 @@
-# PROG7314 POE - Android (Open Source Coding)
+# SSB Digital - PROG7314 POE
 
 ## 👋 Welcome
 
